@@ -1,0 +1,26 @@
+{
+  "name": "cypress-live-conding-session",
+  "version": "0.0.1",
+  "description": "This is the repository for the live coding session from the [Karlsruher Software Testing Meetup Group](https://www.meetup.com/de-DE/software-testing-karlsruhe/). This tutorial take place on Thursday, March 18, 2021 from 19:00 to 20:30.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/askui/cypress-live-conding-session.git"
+  },
+  "keywords": [
+    "cypress",
+    "coding"
+  ],
+  "author": "Dominik Klotz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/askui/cypress-live-conding-session/issues"
+  },
+  "homepage": "https://github.com/askui/cypress-live-conding-session#readme",
+  "devDependencies": {
+    "cypress": "^6.6.0"
+  }
+}
