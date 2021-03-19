@@ -1,5 +1,6 @@
 # Cypress Live Coding Session
 
+
 This is the repository for the live coding session from the [Karlsruher Software Testing Meetup Group](https://www.meetup.com/de-DE/software-testing-karlsruhe/). This tutorial take place on Thursday, March 18, 2021 from 19:00 to 20:30.
 
 ## Goals
@@ -26,6 +27,12 @@ npm install
 
 
 # Tutorial
+
+Before you start, please checkout the beginning of this tutorial.
+
+```bash
+git checkout b362d931da5c9526b3cf8418d4a120373895feec
+```
 
 # 1. Start Cypress
 
